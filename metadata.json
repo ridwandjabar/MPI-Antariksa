@@ -1,0 +1,6 @@
+{
+  "name": "Ekspedisi Antariksa — Menjelajahi Tata Surya",
+  "description": "Multimedia Pembelajaran Interaktif (MPI) IPAS Kelas VI SD materi Tata Surya oleh Ridwan Djabar (SMAN 8 Gorontalo). Dilengkapi materi interaktif, virtual lab simulasi orbit dan gerhana, 10 soal latihan pilihan ganda, dan 6 game edukasi antariksa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
